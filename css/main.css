@@ -58,7 +58,7 @@ button:active {
 
 /* Product button icons */
 i {	
-	background-image: url(images/sprite-icons.png);
+	background-image: url(../images/sprite-icons.png);
 	background-repeat: no-repeat;
 	background-size: 400px 700px;
     display: inline-block;
