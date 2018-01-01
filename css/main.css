@@ -18,6 +18,7 @@
  */
 img {
 	max-width: 350px;
+	max-height: 300px;
 }
 
 p {
@@ -57,7 +58,7 @@ button:active {
 }
 
 /* Product button icons */
-i {	
+i {
 	background-image: url(../images/sprite-icons.png);
 	background-repeat: no-repeat;
 	background-size: 400px 700px;
@@ -75,7 +76,7 @@ i.learn-more-icon {
 }
 
 i.add-to-cart-icon {
-	background-position: -35px -5px;	
+	background-position: -35px -5px;
 }
 
 /* Button inner layer (icons and button text) */
